@@ -14,7 +14,7 @@ export default class Dashboard extends Component {
 				<aside className="sidebar">
 					<ul>
 						<li><Link to="/">HOME</Link></li>
-						<li><Link to="/clock">CURRENT TIME</Link></li>
+						<li><Link to="/current_time">CURRENT TIME</Link></li>
 						<li><Link to="/timer">TIMER</Link></li>
 						<li><Link to="/countdown">COUNTDOWN CLOCK</Link></li>
 					</ul>
